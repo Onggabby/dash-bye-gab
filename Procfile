@@ -1,0 +1,1 @@
+web: gunicorn CaseStudy5:server --preload
