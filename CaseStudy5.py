@@ -7,8 +7,7 @@ Created on Mon Feb 28 14:40:12 2022
 """
 
 #%%
-from flask import Flask, request, jsonify
-app = Flask(__name__)
+
 import numpy as np
 import pandas as pd
 from sklearn import linear_model
